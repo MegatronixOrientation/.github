@@ -1,7 +1,6 @@
-# Hi there 👋
-# This is the Official repo for the coding projects shown in Megatronix Orientation 2k23
+# Hi there 👋, this is the Official repo for the coding projects shown in Megatronix Orientation 2k23
 
-**Here are the list of projects that were shown**
+**Here are the list of projects that were shown during the orientation :**
 1. Hand Cricket
 2. Automated Whatsapp reply Bot and caption generator
 3. Simon game
